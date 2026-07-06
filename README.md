@@ -1,4 +1,4 @@
-# Enterprise E-Commerce ETL Pipeline
+# E-Commerce ETL Pipeline
 ### End-to-End Data Engineering Project using Apache Airflow, AWS, Databricks, PySpark, Athena, and Power BI
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
