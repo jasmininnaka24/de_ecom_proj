@@ -1,0 +1,151 @@
+﻿Order ID,Customer ID,Customer Name,Product ID,Product Name,Category,Sub Category,Brand,Supplier,Store,Country,State,City,Sales Representative,Order Date,Ship Date,Quantity,Unit Price,Discount %,Tax %,Payment Method,Currency,Order Status,Shipping Method,Promo Code,Customer Type
+O1000,C166,Juan Dela Cruz,P1044,Nike Shirt,Fashion,Shirt,Nike,GlobalTrade,Central Mall,Philippines,Cebu, Cebu City ,Dan Tan,2025-99-99,2025-06-09,7,3828.03,0,12,Cash,PHP,Returned,Express,,VIP
+O1001,C165,Juan Dela Cruz,P1012,Lenovo Laptop,Electronics,Laptop,Lenovo,ABC Supply,North Hub,Philippines,Cebu,Cebu City,Dan Tan,2025-99-99,2025-02-15,4,386.23,10,12,PayPal,PHP,Pending,Standard,SAVE10,VIP
+O1002,C101,Juan Dela Cruz,P1085,Adidas Shoes,Fashion,Shoes,Adidas,Prime Goods,North Hub,USA,CA, Los Angeles ,Alice Cruz,2026-02-18,2026-02-25,3,3999.41,15,12,Credit Card,USD,Returned,Standard,VIP20,Retail
+O1003,C119,PEDRO REYES,P1049,Adidas Shoes,Fashion,Shoes,Adidas,ABC Supply,Central Mall,Philippines,Cebu,Cebu City,Dan Tan,2025-05-20,2025-05-25,9,4607.97,0,12,PayPal,PHP,Returned,Same Day,,VIP
+O1004,C170,mArIa  cruz,P1044,Lenovo Laptop,Electronics,Laptop,Lenovo,ABC Supply,Online,USA,CA,los angeles,Alice Cruz,2025-04-16,2025-04-20,-9,1947.37,5,12,Cash Payment,USD,Returned,Express,SAVE10,Retail
+O1005,C123,Maria Santos,P1047,IKEA Chair,Home,Chair,IKEA,ABC Supply,Central Mall,Philippines,NCR,mAnIlA,Dan Tan,2026-04-30,2026-05-02,7,4844.15,15,12,PayPal,PHP,Returned,Express,,Retail
+O1006,C163,Maria Santos,P1090,Adidas Shoes,Fashion,Shoes,Adidas,Prime Goods,Central Mall,USA,CA,LOS ANGELES,Cara Lim,2025-01-09,2025-01-11,10,3494.58,15,12,GCash,USD,Returned,Express,VIP20,Retail
+O1007,C155,Maria Santos,P1034,IKEA Chair,Home,Chair,IKEA,GlobalTrade,Online,Philippines,NCR,manila,Alice Cruz,2025-05-23,2025-05-24,10,4010.95,0,12,CASH,PHP,Completed,Same Day,,Retail
+O1008,C155, Ana Lopez,P1044,Samsung Phone,Electronics,Phone,Samsung,ABC Supply,North Hub,USA,CA, Los Angeles ,Cara Lim,2025-04-08,2025-04-10,5,313.06,5,12,PayPal,USD,Returned,Standard,VIP20,VIP
+O1009,C129, Ana Lopez,P1019,IKEA Chair,Home,Chair,IKEA,ABC Supply,North Hub,Philippines,Cebu,CEBU CITY,Cara Lim,2025-09-30,2025-10-07,1,222.1,10,12,Credit Card,PHP,Returned,Standard,,Wholesale
+O1010,C146, Ana Lopez,P1041,Samsung Phone,Electronics,Phone,Samsung,Prime Goods,North Hub,USA,CA,LOS ANGELES,Bob Reyes,2025-08-17,2025-08-22,8,1023.36,15,12,Cash,USD,Returned,Same Day,VIP20,Retail
+O1011,C141,PEDRO REYES,P1052,Philips Lamp,Home,Lamp,Philips,ABC Supply,North Hub,Philippines,Cebu,cebu city,Dan Tan,2026-04-30,2026-05-07,9,3618,10,12,PayPal,PHP,Returned,Express,VIP20,Retail
+O1012,C168,Maria Santos,P1003,IKEA Chair,Home,Chair,IKEA,GlobalTrade,Online,USA,CA,los angeles,Dan Tan,2025-08-20,2025-08-24,8,1849.64,15,12,Cash Payment,USD,Completed,Standard,,VIP
+O1013,C105,mArIa  cruz,P1094,Samsung Phone,Electronics,Phone,Samsung,Prime Goods,Central Mall,Philippines,NCR, Manila ,Bob Reyes,2025-03-20,2025-03-22,8,3625.56,5,12,Credit Card,PHP,Completed,Standard,,Retail
+O1014,C148,Juan Dela Cruz,P1047,Nike Shirt,Fashion,Shirt,Nike,Prime Goods,Central Mall,USA,CA, Los Angeles ,Bob Reyes,2026-04-11,2026-04-16,2,152.83,0,12,PayPal,USD,Cancelled,Same Day,,Wholesale
+O1015,C138,Juan Dela Cruz,P1007,IKEA Table,Home,Table,IKEA,Prime Goods,Online,Philippines,NCR,manila,Alice Cruz,2025-11-18,2025-11-24,5,1507.48,0,12,cash,PHP,Cancelled,Standard,,Retail
+O1016,C146,Juan Dela Cruz,P1074,Philips Lamp,Home,Lamp,Philips,ABC Supply,Online,Philippines,Cebu,cebu city,Dan Tan,2026-01-09,2026-01-13,1,2852.52,0,12,CASH,PHP,Completed,Same Day,VIP20,VIP
+O1017,C150,Maria Santos,P1085,Sony Headphones,Electronics,Headphones,Sony,GlobalTrade,North Hub,Philippines,Cebu, Cebu City ,Alice Cruz,2025-08-31,2025-09-06,6,1801.63,10,12,CASH,PHP,Pending,Standard,,Retail
+O1018,C170,Maria Santos,P1032,Sony Headphones,Electronics,Headphones,Sony,Prime Goods,Online,Philippines,Cebu,Cebu City,Cara Lim,2025-01-28,2025-02-03,3,2686.58,5,12,Credit Card,PHP,Pending,Same Day,SAVE10,VIP
+O1019,C139,Maria Santos,P1070,Puma Bag,Fashion,Bag,Puma,Prime Goods,Central Mall,Philippines,Cebu,Cebu City,Bob Reyes,2025-02-23,2025-02-26,3,1980.62,5,12,Cash Payment,PHP,Cancelled,Standard,SAVE10,Retail
+O1020,C123, Ana Lopez,P1051,Puma Bag,Fashion,Bag,Puma,GlobalTrade,Online,Philippines,NCR,mAnIlA,Bob Reyes,2025-12-29,2026-01-01,1,2926.54,0,12,cash,PHP,Cancelled,Same Day,VIP20,VIP
+O1021,C123,mArIa  cruz,P1097,Sony Headphones,Electronics,Headphones,Sony,Prime Goods,Online,Philippines,NCR, Manila ,Cara Lim,2025-02-17,2025-02-22,8,1117.15,10,12,Cash Payment,PHP,Cancelled,Same Day,VIP20,Wholesale
+O1022,C112,mArIa  cruz,P1003,Samsung Phone,Electronics,Phone,Samsung,Prime Goods,Online,USA,CA,los angeles,Alice Cruz,2025-03-23,2025-03-27,9,654.75,15,12,cash,USD,Completed,Standard,,Retail
+O1023,C108, Ana Lopez,P1053,Adidas Shoes,Fashion,Shoes,Adidas,GlobalTrade,Central Mall,Philippines,Cebu,Cebu City,Bob Reyes,2026-03-02,2026-03-06,1,4031.58,10,12,GCash,PHP,Completed,Same Day,,Retail
+O1024,C145,PEDRO REYES,P1061,Samsung Phone,Electronics,Phone,Samsung,Prime Goods,Online,Philippines,NCR,mAnIlA,Dan Tan,2026-04-23,2026-04-29,6,3997.51,0,12,Credit Card,PHP,Returned,Express,VIP20,VIP
+O1025,C123,Maria Santos,P1099,IKEA Table,Home,Table,IKEA,GlobalTrade,Central Mall,USA,CA,Los Angeles,Bob Reyes,2025-12-02,2025-12-03,9,3039.51,0,12,Credit Card,USD,Returned,Standard,SAVE10,VIP
+O1026,C144, Ana Lopez,P1030,IKEA Table,Home,Table,IKEA,Prime Goods,Online,USA,CA, Los Angeles ,Cara Lim,2026-03-19,2026-03-24,10,2518.25,5,12,GCash,USD,Completed,Express,VIP20,VIP
+O1027,C163, Ana Lopez,P1036,Lenovo Laptop,Electronics,Laptop,Lenovo,Prime Goods,Online,USA,CA,los angeles,Bob Reyes,2026-05-02,2026-05-04,2,4934.3,15,12,Cash,USD,Cancelled,Express,,Retail
+O1028,C131,mArIa  cruz,P1046,Nike Shirt,Fashion,Shirt,Nike,Prime Goods,Online,USA,CA, Los Angeles ,Cara Lim,2025-05-06,2025-05-13,4,2288.84,15,12,PayPal,USD,Cancelled,Standard,,Wholesale
+O1029,C133, Ana Lopez,P1001,Nike Shirt,Fashion,Shirt,Nike,Prime Goods,Central Mall,Philippines,Cebu,Cebu City,Bob Reyes,2026-03-29,2026-04-05,8,3875.07,5,12,Cash Payment,PHP,Pending,Same Day,SAVE10,Retail
+O1030,C148,PEDRO REYES,P1100,Nike Shirt,Fashion,Shirt,Nike,ABC Supply,North Hub,Philippines,NCR, Manila ,Dan Tan,2025-05-04,2025-05-08,4,3713.2,10,12,GCash,PHP,Completed,Same Day,,VIP
+O1031,C153, Ana Lopez,P1029,IKEA Table,Home,Table,IKEA,Prime Goods,Central Mall,Philippines,Cebu, Cebu City ,Bob Reyes,2026-03-12,2026-03-14,10,4562.39,5,12,CASH,PHP,Completed,Standard,SAVE10,Retail
+O1032,C123,Juan Dela Cruz,P1010,Puma Bag,Fashion,Bag,Puma,GlobalTrade,North Hub,Philippines,Cebu,cebu city,Cara Lim,2026-01-16,2026-01-21,2,956.22,10,12,GCash,PHP,Cancelled,Express,VIP20,Wholesale
+O1033,C143,Juan Dela Cruz,P1092,Sony Headphones,Electronics,Headphones,Sony,GlobalTrade,North Hub,USA,CA,LOS ANGELES,Alice Cruz,2026-01-31,2026-02-01,6,2185.99,15,12,Cash,USD,Pending,Same Day,SAVE10,Wholesale
+O1034,C119,PEDRO REYES,P1004,Samsung Phone,Electronics,Phone,Samsung,ABC Supply,Central Mall,Philippines,NCR,manila,Alice Cruz,2025-01-11,2025-01-18,1,535.48,15,12,Credit Card,PHP,Completed,Same Day,VIP20,VIP
+O1035,C111,Maria Santos,P1076,IKEA Table,Home,Table,IKEA,ABC Supply,North Hub,USA,CA,los angeles,Cara Lim,2026-05-15,2026-05-22,4,3102.42,15,12,CASH,USD,Returned,Same Day,SAVE10,Wholesale
+O1036,C151, Ana Lopez,P1040,Samsung Phone,Electronics,Phone,Samsung,Prime Goods,Online,Philippines,NCR,MANILA,Cara Lim,2026-02-19,2026-02-20,1,3615.36,0,12,PayPal,PHP,Pending,Same Day,VIP20,Retail
+O1037,C147,mArIa  cruz,P1023,Nike Shirt,Fashion,Shirt,Nike,Prime Goods,Online,USA,CA,Los Angeles,Bob Reyes,2025-08-22,2025-08-23,8,3139.53,15,12,CASH,USD,Cancelled,Same Day,,Retail
+O1038,C134,PEDRO REYES,P1063,IKEA Chair,Home,Chair,IKEA,ABC Supply,Central Mall,Philippines,Cebu,CEBU CITY,Cara Lim,2026-04-16,2026-04-23,6,1081.27,5,12,Cash Payment,PHP,Cancelled,Express,,VIP
+O1039,C164,PEDRO REYES,P1048,Philips Lamp,Home,Lamp,Philips,ABC Supply,North Hub,USA,CA,Los Angeles,Alice Cruz,2025-05-18,2025-05-21,7,4502.2,10,12,cash,USD,Completed,Same Day,VIP20,Retail
+O1040,,mArIa  cruz,P1034,IKEA Chair,Home,Chair,IKEA,ABC Supply,Central Mall,Philippines,Cebu,CEBU CITY,Alice Cruz,2025-07-03,2025-07-06,4,1102.76,5,12,Cash Payment,PHP,Cancelled,Express,SAVE10,Wholesale
+O1041,C136,Maria Santos,P1087,Puma Bag,Fashion,Bag,Puma,Prime Goods,North Hub,USA,CA,los angeles,Dan Tan,2025-02-08,2025-02-12,6,344.4,15,12,Cash,USD,Cancelled,Same Day,SAVE10,VIP
+O1042,C137,mArIa  cruz,P1078,IKEA Table,Home,Table,IKEA,GlobalTrade,Central Mall,USA,CA,los angeles,Dan Tan,2025-10-13,2025-10-16,8,2108.37,5,12,PayPal,USD,Completed,Standard,,VIP
+O1043,C106,Maria Santos,P1040,IKEA Chair,Home,Chair,IKEA,Prime Goods,Central Mall,Philippines,NCR,Manila,Alice Cruz,2025-06-23,2025-06-25,5,3727.1,0,12,cash,PHP,Cancelled,Same Day,SAVE10,Retail
+O1044,C115,PEDRO REYES,P1032,Nike Shirt,Fashion,Shirt,Nike,Prime Goods,Central Mall,Philippines,NCR,Manila,Alice Cruz,2026-02-06,2026-02-09,10,1910.08,10,12,Credit Card,PHP,Returned,Same Day,SAVE10,Wholesale
+O1045,C130,Juan Dela Cruz,P1016,Puma Bag,Fashion,Bag,Puma,GlobalTrade,North Hub,USA,CA,los angeles,Bob Reyes,2025-04-02,2025-04-09,2,433.58,15,12,Cash Payment,USD,Completed,Standard,,Retail
+O1046,C120,Juan Dela Cruz,P1055,Philips Lamp,Home,Lamp,Philips,Prime Goods,North Hub,Philippines,Cebu,cebu city,Cara Lim,2025-06-01,2025-06-04,9,3334.81,0,12,Credit Card,PHP,Cancelled,Same Day,VIP20,Retail
+O1047,C127, Ana Lopez,P1034,Samsung Phone,Electronics,Phone,Samsung,ABC Supply,North Hub,Philippines,NCR,Manila,Bob Reyes,2025-08-23,2025-08-24,2,2510.87,0,12,PayPal,PHP,Cancelled,Standard,VIP20,Retail
+O1048,C166,Maria Santos,P1077,Samsung Phone,Electronics,Phone,Samsung,GlobalTrade,Central Mall,Philippines,Cebu,CEBU CITY,Cara Lim,2025-05-20,2025-05-26,9,2226.2,5,12,Credit Card,PHP,Returned,Express,SAVE10,Retail
+O1049,C123,PEDRO REYES,P1007,IKEA Chair,Home,Chair,IKEA,Prime Goods,Central Mall,USA,CA, Los Angeles ,Bob Reyes,2025-10-06,2025-10-12,3,4029.31,10,12,Cash Payment,USD,Completed,Same Day,VIP20,Wholesale
+O1000,C119,mArIa  cruz,P1057,Philips Lamp,Home,Lamp,Philips,Prime Goods,North Hub,Philippines,Cebu,Cebu City,Cara Lim,2025-08-21,2025-08-24,8,893.43,10,12,cash,PHP,Pending,Standard,,VIP
+O1051,C104,mArIa  cruz,P1001,Lenovo Laptop,Electronics,Laptop,Lenovo,ABC Supply,North Hub,USA,CA, Los Angeles ,Cara Lim,2025-11-22,2025-11-27,6,3952.79,5,12,cash,USD,Completed,Standard,SAVE10,Wholesale
+O1052,C126,Juan Dela Cruz,P1005,Adidas Shoes,Fashion,Shoes,Adidas,ABC Supply,Central Mall,Philippines,NCR,manila,Dan Tan,2025-02-07,2025-02-13,5,2683.16,5,12,PayPal,PHP,Pending,Express,VIP20,Retail
+O1053,C154,Maria Santos,P1031,IKEA Table,Home,Table,IKEA,GlobalTrade,North Hub,Philippines,NCR,mAnIlA,Cara Lim,2025-01-12,2025-01-15,2,4326.69,15,12,Cash,PHP,Completed,Standard,VIP20,Wholesale
+O1054,C140,PEDRO REYES,P1014,Sony Headphones,Electronics,Headphones,Sony,GlobalTrade,Online,Philippines,NCR,MANILA,Bob Reyes,2025-01-23,2025-01-26,8,3027.44,0,12,CASH,PHP,Pending,Same Day,VIP20,Retail
+O1055,C117,mArIa  cruz,P1028,Philips Lamp,Home,Lamp,Philips,Prime Goods,Online,Philippines,NCR, Manila ,Bob Reyes,2025-03-18,2025-03-24,10,685.36,15,12,PayPal,PHP,Completed,Same Day,VIP20,VIP
+O1056,C105,mArIa  cruz,P1042,IKEA Table,Home,Table,IKEA,ABC Supply,Online,Philippines,NCR,MANILA,Bob Reyes,2025-07-05,2025-07-08,6,892.72,15,12,Cash Payment,PHP,Cancelled,Express,VIP20,Retail
+O1057,C102,mArIa  cruz,P1059,IKEA Chair,Home,Chair,IKEA,Prime Goods,Central Mall,Philippines,NCR,Manila,Alice Cruz,2025-08-21,2025-08-25,6,2691.46,10,12,CASH,PHP,Cancelled,Standard,SAVE10,Wholesale
+O1058,C107, Ana Lopez,P1016,Lenovo Laptop,Electronics,Laptop,Lenovo,ABC Supply,Central Mall,USA,CA,Los Angeles,Cara Lim,2025-10-14,2025-10-17,10,2822.65,5,12,Credit Card,USD,Returned,Same Day,,Retail
+O1059,C155,PEDRO REYES,P1034,Samsung Phone,Electronics,Phone,Samsung,Prime Goods,Online,Philippines,Cebu,Cebu City,Dan Tan,2026-01-20,2026-01-26,10,930.23,5,12,Credit Card,PHP,Pending,Express,SAVE10,Wholesale
+O1060,C138,Maria Santos,P1059,Samsung Phone,Electronics,Phone,Samsung,GlobalTrade,North Hub,Philippines,NCR,mAnIlA,Bob Reyes,2025-03-31,2025-04-05,10,1809.74,0,12,GCash,PHP,Cancelled,Express,SAVE10,Retail
+O1061,C146,mArIa  cruz,P1040,Lenovo Laptop,Electronics,Laptop,Lenovo,Prime Goods,Online,Philippines,Cebu,CEBU CITY,Bob Reyes,2025-05-11,2025-05-18,3,2015.82,5,12,Cash,PHP,Pending,Express,SAVE10,Retail
+O1062,C119,Maria Santos,P1028,Puma Bag,Fashion,Bag,Puma,Prime Goods,North Hub,Philippines,Cebu,cebu city,Alice Cruz,2025-01-20,2025-01-22,1,1711.72,15,12,Credit Card,PHP,Completed,Express,,VIP
+O1063,C150,Maria Santos,P1034,Nike Shirt,Fashion,Shirt,Nike,GlobalTrade,Central Mall,USA,CA,Los Angeles,Alice Cruz,2025-08-30,2025-09-01,2,2668.97,5,12,GCash,USD,Cancelled,Same Day,SAVE10,Wholesale
+O1064,C100,PEDRO REYES,P1036,Puma Bag,Fashion,Bag,Puma,GlobalTrade,Online,USA,CA,Los Angeles,Bob Reyes,2025-99-99,2026-04-24,8,2862.89,10,12,Cash Payment,USD,Cancelled,Express,VIP20,Wholesale
+O1065,C115,Maria Santos,P1004,Adidas Shoes,Fashion,Shoes,Adidas,ABC Supply,Online,USA,CA, Los Angeles ,Cara Lim,2025-03-14,2025-03-16,8,579.06,10,12,cash,USD,Cancelled,Standard,,VIP
+O1066,C109, Ana Lopez,P1030,Samsung Phone,Electronics,Phone,Samsung,Prime Goods,North Hub,Philippines,NCR,manila,Alice Cruz,2026-02-05,2026-02-09,4,3842.47,10,12,Cash,PHP,Completed,Express,,Retail
+O1067,C109,PEDRO REYES,P1025,Nike Shirt,Fashion,Shirt,Nike,Prime Goods,North Hub,Philippines,Cebu,Cebu City,Bob Reyes,2026-02-14,2026-02-19,9,258.88,5,12,cash,PHP,Cancelled,Same Day,SAVE10,Retail
+O1068,C147,Juan Dela Cruz,P1052,IKEA Chair,Home,Chair,IKEA,ABC Supply,Online,Philippines,Cebu,cebu city,Bob Reyes,2025-09-10,2025-09-15,1,1286.56,0,12,CASH,PHP,Cancelled,Standard,SAVE10,Retail
+O1069,C109,Maria Santos,P1024,Puma Bag,Fashion,Bag,Puma,Prime Goods,Central Mall,USA,CA,Los Angeles,Bob Reyes,2026-02-15,2026-02-18,6,1771.47,0,12,CASH,USD,Pending,Standard,VIP20,VIP
+O1070,C127,Maria Santos,P1063,Adidas Shoes,Fashion,Shoes,Adidas,Prime Goods,Central Mall,USA,CA,LOS ANGELES,Bob Reyes,2026-04-11,2026-04-14,10,3427.25,5,12,Cash,USD,Pending,Standard,,Wholesale
+O1071,C109,Maria Santos,P1100,Lenovo Laptop,Electronics,Laptop,Lenovo,Prime Goods,Online,Philippines,NCR, Manila ,Bob Reyes,2026-02-20,2026-02-26,8,1390.71,5,12,PayPal,PHP,Cancelled,Standard,,VIP
+O1072,C117,Juan Dela Cruz,P1056,Lenovo Laptop,Electronics,Laptop,Lenovo,ABC Supply,North Hub,Philippines,NCR, Manila ,Bob Reyes,2026-01-11,2026-01-18,4,2142.38,5,12,Cash Payment,PHP,Completed,Express,SAVE10,VIP
+O1073,C139,mArIa  cruz,P1095,Lenovo Laptop,Electronics,Laptop,Lenovo,GlobalTrade,Central Mall,Philippines,NCR,Manila,Cara Lim,2025-09-02,2025-09-05,5,2239.07,10,12,GCash,PHP,Returned,Same Day,VIP20,Wholesale
+O1074,C115, Ana Lopez,P1021,IKEA Table,Home,Table,IKEA,GlobalTrade,Central Mall,Philippines,Cebu,CEBU CITY,Dan Tan,2025-03-25,2025-03-31,9,3895.99,10,12,cash,PHP,Cancelled,Express,SAVE10,Retail
+O1075,C147,PEDRO REYES,P1019,Samsung Phone,Electronics,Phone,Samsung,Prime Goods,Online,Philippines,Cebu,cebu city,Cara Lim,2025-02-07,2025-02-11,6,3051.51,5,12,Credit Card,PHP,Pending,Same Day,,Retail
+O1076,C114,Maria Santos,P1081,Philips Lamp,Home,Lamp,Philips,Prime Goods,Central Mall,Philippines,Cebu, Cebu City ,Dan Tan,2026-02-26,2026-02-28,6,4963.95,0,12,cash,PHP,Completed,Standard,SAVE10,Retail
+O1077,C142,mArIa  cruz,P1058,Puma Bag,Fashion,Bag,Puma,GlobalTrade,Central Mall,Philippines,NCR, Manila ,Alice Cruz,2025-01-06,2025-01-10,1,1290.44,5,12,Cash,PHP,Completed,Standard,,VIP
+O1078,C120, Ana Lopez,P1005,Lenovo Laptop,Electronics,Laptop,Lenovo,GlobalTrade,North Hub,Philippines,NCR,manila,Cara Lim,2026-02-07,2026-02-09,5,1804.69,10,12,PayPal,PHP,Cancelled,Express,,Retail
+O1079,C159,Maria Santos,P1055,Puma Bag,Fashion,Bag,Puma,Prime Goods,North Hub,Philippines,NCR, Manila ,Dan Tan,2026-04-12,2026-04-19,7,-4245.2,15,12,Cash Payment,PHP,Pending,Same Day,SAVE10,VIP
+O1080,C156, Ana Lopez,P1060,IKEA Table,Home,Table,IKEA,ABC Supply,Online,USA,CA,los angeles,Dan Tan,2026-04-13,2026-04-19,10,385.58,0,12,CASH,USD,Completed,Standard,SAVE10,Wholesale
+O1081,C124,mArIa  cruz,P1070,Samsung Phone,Electronics,Phone,Samsung,GlobalTrade,North Hub,Philippines,Cebu,cebu city,Bob Reyes,2025-09-28,2025-10-04,9,3667.92,0,12,Cash,PHP,Completed,Same Day,VIP20,Wholesale
+O1082,C162,Maria Santos,P1071,IKEA Table,Home,Table,IKEA,GlobalTrade,Online,Philippines,NCR,MANILA,Bob Reyes,2026-04-24,2026-04-26,5,141.24,5,12,cash,PHP,Pending,Express,,Retail
+O1083,C156,Juan Dela Cruz,P1034,IKEA Table,Home,Table,IKEA,ABC Supply,Central Mall,Philippines,Cebu,Cebu City,Dan Tan,2026-01-13,2026-01-16,2,1137.54,5,12,PayPal,PHP,Completed,Express,VIP20,Wholesale
+O1084,C104,Maria Santos,P1047,Adidas Shoes,Fashion,Shoes,Adidas,Prime Goods,Central Mall,Philippines,NCR,mAnIlA,Bob Reyes,2025-12-23,2025-12-29,5,3414.01,5,12,Credit Card,PHP,Pending,Standard,VIP20,Retail
+O1085,C103,Maria Santos,P1081,Nike Shirt,Fashion,Shirt,Nike,Prime Goods,Online,Philippines,Cebu,Cebu City,Cara Lim,2025-11-05,2025-11-11,2,3496.9,15,12,CASH,PHP,Returned,Standard,,VIP
+O1086,C150,mArIa  cruz,P1011,Samsung Phone,Electronics,Phone,Samsung,Prime Goods,Central Mall,Philippines,NCR,MANILA,Cara Lim,2026-02-08,2026-02-09,10,3150.1,5,12,Cash,PHP,Returned,Same Day,SAVE10,Retail
+O1087,C137,Maria Santos,P1090,Samsung Phone,Electronics,Phone,Samsung,Prime Goods,Central Mall,USA,CA,Los Angeles,Alice Cruz,2026-05-06,2026-05-13,6,236.14,15,12,PayPal,USD,Cancelled,Standard,,Wholesale
+O1088,C117,Juan Dela Cruz,P1049,IKEA Chair,Home,Chair,IKEA,GlobalTrade,Online,Philippines,Cebu,CEBU CITY,Bob Reyes,2025-03-01,2025-03-08,6,-2426.69,5,12,cash,PHP,Completed,Same Day,VIP20,Retail
+O1089,C113, Ana Lopez,P1028,Philips Lamp,Home,Lamp,Philips,GlobalTrade,Central Mall,Philippines,Cebu,CEBU CITY,Alice Cruz,2025-04-04,2025-04-11,2,652.99,10,12,Cash Payment,PHP,Pending,Express,,Wholesale
+O1090,C112,Juan Dela Cruz,P1012,Adidas Shoes,Fashion,Shoes,Adidas,GlobalTrade,North Hub,USA,CA,los angeles,Bob Reyes,2026-02-13,2026-02-18,2,2922.02,5,12,PayPal,USD,Pending,Same Day,SAVE10,Wholesale
+O1091,C163,Maria Santos,P1094,Samsung Phone,Electronics,Phone,Samsung,GlobalTrade,Central Mall,Philippines,Cebu, Cebu City ,Cara Lim,2025-99-99,2025-05-29,3,3417.87,5,12,Cash Payment,PHP,Pending,Same Day,,VIP
+O1092,C136,PEDRO REYES,P1005,Sony Headphones,Electronics,Headphones,Sony,ABC Supply,Online,USA,CA, Los Angeles ,Bob Reyes,2026-04-10,2026-04-13,8,4188.93,15,12,PayPal,USD,Cancelled,Same Day,,Wholesale
+O1093,C155,mArIa  cruz,P1005,IKEA Table,Home,Table,IKEA,Prime Goods,Online,USA,CA,los angeles,Bob Reyes,2026-02-18,2026-02-20,5,2841.77,0,12,Credit Card,USD,Cancelled,Same Day,,VIP
+O1094,C152,mArIa  cruz,P1035,Sony Headphones,Electronics,Headphones,Sony,GlobalTrade,Central Mall,Philippines,Cebu,Cebu City,Alice Cruz,2025-11-22,2025-11-29,8,2598.65,10,12,PayPal,PHP,Returned,Same Day,SAVE10,Retail
+O1095,C103, Ana Lopez,P1019,IKEA Chair,Home,Chair,IKEA,GlobalTrade,North Hub,USA,CA,Los Angeles,Alice Cruz,2026-01-19,2026-01-23,7,436.28,5,12,GCash,USD,Completed,Express,VIP20,Wholesale
+O1096,C147,Juan Dela Cruz,P1078,Samsung Phone,Electronics,Phone,Samsung,ABC Supply,Central Mall,Philippines,Cebu,cebu city,Bob Reyes,2025-03-26,2025-03-28,2,1556.09,0,12,PayPal,PHP,Cancelled,Standard,,Retail
+O1097,C159, Ana Lopez,P1022,Nike Shirt,Fashion,Shirt,Nike,Prime Goods,Central Mall,USA,CA,Los Angeles,Cara Lim,2025-05-23,2025-05-26,3,883.12,5,12,GCash,USD,Cancelled,Standard,VIP20,VIP
+O1098,C105,PEDRO REYES,P1100,Puma Bag,Fashion,Bag,Puma,Prime Goods,North Hub,Philippines,Cebu, Cebu City ,Cara Lim,2025-02-08,2025-02-12,7,2004.39,0,12,GCash,PHP,Pending,Express,,Wholesale
+O1099,C143,PEDRO REYES,P1085,IKEA Table,Home,Table,IKEA,GlobalTrade,Online,USA,CA,Los Angeles,Alice Cruz,2025-09-07,2025-09-12,1,1014.74,15,12,PayPal,USD,Returned,Express,SAVE10,Retail
+O1000,C121,Maria Santos,P1051,Puma Bag,Fashion,Bag,Puma,ABC Supply,North Hub,Philippines,Cebu, Cebu City ,Dan Tan,2025-03-23,2025-03-28,3,3432.08,5,12,cash,PHP,Cancelled,Standard,SAVE10,Wholesale
+O1101,C101,PEDRO REYES,P1079,Lenovo Laptop,Electronics,Laptop,Lenovo,GlobalTrade,North Hub,Philippines,NCR,MANILA,Cara Lim,2025-03-16,2025-03-19,3,1687.84,5,12,cash,PHP,Pending,Standard,SAVE10,VIP
+O1102,C164, Ana Lopez,P1066,Lenovo Laptop,Electronics,Laptop,Lenovo,GlobalTrade,Online,Philippines,Cebu,Cebu City,Dan Tan,2026-05-06,2026-05-09,1,4076.22,10,12,PayPal,PHP,Returned,Standard,VIP20,Retail
+O1103,C140,Juan Dela Cruz,P1084,Sony Headphones,Electronics,Headphones,Sony,ABC Supply,Online,Philippines,Cebu,cebu city,Dan Tan,2025-05-20,2025-05-26,9,361.5,10,12,Cash,PHP,Completed,Same Day,VIP20,VIP
+O1104,C144, Ana Lopez,P1038,Adidas Shoes,Fashion,Shoes,Adidas,Prime Goods,Central Mall,Philippines,NCR,MANILA,Dan Tan,2026-03-27,2026-03-31,10,3575.77,5,12,CASH,PHP,Returned,Standard,VIP20,Retail
+O1105,C143,mArIa  cruz,P1035,Puma Bag,Fashion,Bag,Puma,GlobalTrade,Central Mall,USA,CA, Los Angeles ,Dan Tan,2025-01-31,2025-02-06,7,3408.51,15,12,GCash,USD,Completed,Express,SAVE10,Wholesale
+O1106,C133,mArIa  cruz,P1075,Lenovo Laptop,Electronics,Laptop,Lenovo,ABC Supply,Online,USA,CA,Los Angeles,Cara Lim,2025-08-16,2025-08-20,1,2315.29,10,12,Credit Card,USD,Completed,Express,VIP20,Wholesale
+O1107,,Maria Santos,P1093,IKEA Chair,Home,Chair,IKEA,Prime Goods,Online,Philippines,Cebu, Cebu City ,Cara Lim,2025-02-13,2025-02-18,9,113.89,15,12,PayPal,PHP,Returned,Express,VIP20,Wholesale
+O1108,C148,Maria Santos,P1013,Puma Bag,Fashion,Bag,Puma,ABC Supply,Online,Philippines,Cebu, Cebu City ,Alice Cruz,2025-03-26,2025-04-01,8,2967.52,0,12,PayPal,PHP,Returned,Express,VIP20,VIP
+O1109,C133, Ana Lopez,P1086,Puma Bag,Fashion,Bag,Puma,GlobalTrade,Online,Philippines,NCR,manila,Cara Lim,2025-06-10,2025-06-14,5,2152.59,5,12,Cash Payment,PHP,Cancelled,Express,SAVE10,Retail
+O1110,C120,PEDRO REYES,,Puma Bag,Fashion,Bag,Puma,ABC Supply,Online,USA,CA, Los Angeles ,Alice Cruz,2025-12-09,2025-12-16,6,3438.95,5,12,Cash,USD,Cancelled,Express,,Retail
+O1111,C105,Juan Dela Cruz,P1039,Lenovo Laptop,Electronics,Laptop,Lenovo,GlobalTrade,Central Mall,Philippines,Cebu, Cebu City ,Cara Lim,2025-08-15,2025-08-22,8,2368.42,15,12,GCash,PHP,Completed,Same Day,VIP20,Retail
+O1112,C116, Ana Lopez,P1006,IKEA Table,Home,Table,IKEA,ABC Supply,North Hub,Philippines,NCR,manila,Cara Lim,2025-03-14,2025-03-15,3,2032.36,0,12,CASH,PHP,Completed,Express,,VIP
+O1113,C132,Maria Santos,P1053,Philips Lamp,Home,Lamp,Philips,GlobalTrade,Central Mall,Philippines,Cebu, Cebu City ,Alice Cruz,2026-01-20,2026-01-23,1,3506.55,10,12,Credit Card,PHP,Returned,Standard,SAVE10,Retail
+O1114,C108,mArIa  cruz,P1057,Philips Lamp,Home,Lamp,Philips,ABC Supply,Central Mall,USA,CA,LOS ANGELES,Dan Tan,2025-02-25,2025-03-03,9,-4111.96,5,12,Cash,USD,Completed,Standard,SAVE10,Wholesale
+O1115,,Maria Santos,P1038,Puma Bag,Fashion,Bag,Puma,Prime Goods,Central Mall,Philippines,Cebu,Cebu City,Dan Tan,2025-05-11,2025-05-17,5,3218.29,15,12,PayPal,PHP,Cancelled,Same Day,SAVE10,VIP
+O1116,C116, Ana Lopez,P1005,Nike Shirt,Fashion,Shirt,Nike,ABC Supply,Online,Philippines,NCR,mAnIlA,Alice Cruz,2025-12-22,2025-12-28,9,1210.01,0,12,Credit Card,PHP,Pending,Standard,SAVE10,Retail
+O1117,,Juan Dela Cruz,P1077,Puma Bag,Fashion,Bag,Puma,ABC Supply,Online,Philippines,Cebu,Cebu City,Bob Reyes,2026-02-27,2026-03-05,5,2712.98,5,12,Cash,PHP,Completed,Standard,SAVE10,Retail
+O1118,C107,Juan Dela Cruz,P1086,Philips Lamp,Home,Lamp,Philips,ABC Supply,North Hub,Philippines,Cebu,cebu city,Bob Reyes,2025-03-01,2025-03-08,6,2529.17,5,12,GCash,PHP,Cancelled,Express,SAVE10,Retail
+O1119,C165, Ana Lopez,P1039,Adidas Shoes,Fashion,Shoes,Adidas,GlobalTrade,Central Mall,Philippines,NCR,Manila,Cara Lim,2026-01-15,2026-01-22,8,347.07,0,12,cash,PHP,Returned,Express,,Retail
+O1120,C169,Maria Santos,P1017,Sony Headphones,Electronics,Headphones,Sony,GlobalTrade,North Hub,Philippines,NCR,mAnIlA,Cara Lim,2025-06-27,2025-06-29,1,4049.9,5,12,PayPal,PHP,Pending,Express,VIP20,Retail
+O1121,C107, Ana Lopez,P1058,Samsung Phone,Electronics,Phone,Samsung,ABC Supply,North Hub,Philippines,Cebu, Cebu City ,Cara Lim,2026-02-25,2026-03-03,4,3789.99,5,12,cash,PHP,Completed,Same Day,,VIP
+O1122,C147,Maria Santos,P1091,Samsung Phone,Electronics,Phone,Samsung,GlobalTrade,North Hub,Philippines,NCR,mAnIlA,Alice Cruz,2025-03-06,2025-03-13,1,168.14,15,12,PayPal,PHP,Returned,Standard,SAVE10,VIP
+O1123,C169,mArIa  cruz,P1090,Samsung Phone,Electronics,Phone,Samsung,ABC Supply,North Hub,Philippines,Cebu,Cebu City,Alice Cruz,2025-04-02,2025-04-03,7,3356.29,0,12,PayPal,PHP,Returned,Standard,VIP20,VIP
+O1124,C160,PEDRO REYES,P1048,Lenovo Laptop,Electronics,Laptop,Lenovo,Prime Goods,Online,USA,CA,los angeles,Dan Tan,2025-07-12,2025-07-15,1,467.55,0,12,Cash Payment,USD,Pending,Express,SAVE10,VIP
+O1125,C119,PEDRO REYES,P1046,Nike Shirt,Fashion,Shirt,Nike,Prime Goods,Online,Philippines,Cebu,Cebu City,Alice Cruz,2026-03-09,2026-03-11,7,3606.77,15,12,PayPal,PHP,Returned,Standard,SAVE10,Retail
+O1126,C123,mArIa  cruz,P1065,Nike Shirt,Fashion,Shirt,Nike,ABC Supply,Central Mall,Philippines,Cebu, Cebu City ,Dan Tan,2025-10-20,2025-10-25,2,1751.18,10,12,cash,PHP,Pending,Standard,VIP20,Wholesale
+O1127,C108,Juan Dela Cruz,P1038,IKEA Chair,Home,Chair,IKEA,ABC Supply,Online,USA,CA, Los Angeles ,Bob Reyes,2025-05-14,2025-05-15,1,2348.45,0,12,PayPal,USD,Returned,Express,SAVE10,Wholesale
+O1128,C131,Maria Santos,P1098,Samsung Phone,Electronics,Phone,Samsung,GlobalTrade,Online,Philippines,NCR,manila,Bob Reyes,2026-02-24,2026-02-26,1,1023.04,15,12,GCash,PHP,Completed,Standard,,Retail
+O1129,C142, Ana Lopez,P1079,Puma Bag,Fashion,Bag,Puma,GlobalTrade,Central Mall,Philippines,NCR, Manila ,Dan Tan,2026-01-28,2026-02-03,4,1022.65,15,12,Cash Payment,PHP,Returned,Same Day,,Retail
+O1130,C128,Maria Santos,P1004,Philips Lamp,Home,Lamp,Philips,GlobalTrade,Central Mall,USA,CA,Los Angeles,Alice Cruz,2026-05-13,2026-05-18,7,461.62,5,12,Credit Card,USD,Completed,Standard,,VIP
+O1131,C122,mArIa  cruz,P1014,Adidas Shoes,Fashion,Shoes,Adidas,Prime Goods,North Hub,Philippines,Cebu, Cebu City ,Cara Lim,2026-01-21,2026-01-27,8,509.62,10,12,PayPal,PHP,Returned,Express,SAVE10,Wholesale
+O1132,C150,Juan Dela Cruz,P1016,Philips Lamp,Home,Lamp,Philips,GlobalTrade,North Hub,USA,CA,los angeles,Dan Tan,2025-04-19,2025-04-23,2,1195.76,5,12,PayPal,USD,Returned,Standard,VIP20,VIP
+O1133,C119,Juan Dela Cruz,P1041,IKEA Table,Home,Table,IKEA,ABC Supply,Central Mall,USA,CA,LOS ANGELES,Dan Tan,2025-12-11,2025-12-18,7,736.27,15,12,PayPal,USD,Cancelled,Same Day,VIP20,Wholesale
+O1134,C167,Juan Dela Cruz,P1044,IKEA Chair,Home,Chair,IKEA,ABC Supply,North Hub,USA,CA,Los Angeles,Cara Lim,2025-01-12,2025-01-17,6,4230.24,0,12,cash,USD,Pending,Standard,SAVE10,VIP
+O1135,C140, Ana Lopez,P1003,IKEA Chair,Home,Chair,IKEA,Prime Goods,North Hub,Philippines,Cebu, Cebu City ,Cara Lim,2025-06-10,2025-06-15,1,247.43,0,12,cash,PHP,Completed,Same Day,,Wholesale
+O1136,C153, Ana Lopez,P1023,Lenovo Laptop,Electronics,Laptop,Lenovo,Prime Goods,North Hub,USA,CA,LOS ANGELES,Cara Lim,2025-10-16,2025-10-22,4,4828.52,5,12,Credit Card,USD,Cancelled,Same Day,SAVE10,Wholesale
+O1137,C137,Juan Dela Cruz,P1073,Nike Shirt,Fashion,Shirt,Nike,ABC Supply,North Hub,Philippines,Cebu,Cebu City,Dan Tan,2025-04-09,2025-04-10,6,4871.38,5,12,GCash,PHP,Pending,Same Day,VIP20,VIP
+O1138,C102, Ana Lopez,P1057,IKEA Table,Home,Table,IKEA,ABC Supply,Central Mall,USA,CA,Los Angeles,Alice Cruz,2025-04-03,2025-04-04,4,1061.42,10,12,CASH,USD,Completed,Express,,Retail
+O1139,C106,Juan Dela Cruz,P1001,Sony Headphones,Electronics,Headphones,Sony,Prime Goods,Central Mall,Philippines,NCR,manila,Cara Lim,2025-02-03,2025-02-10,1,4701.15,0,12,Credit Card,PHP,Completed,Express,VIP20,VIP
+O1140,C119, Ana Lopez,P1063,Lenovo Laptop,Electronics,Laptop,Lenovo,ABC Supply,Central Mall,USA,CA,Los Angeles,Bob Reyes,2025-03-01,2025-03-03,3,4996.63,0,12,Credit Card,USD,Returned,Same Day,,Retail
+O1141,C139,Juan Dela Cruz,P1004,Puma Bag,Fashion,Bag,Puma,ABC Supply,Online,Philippines,NCR,manila,Cara Lim,2025-05-07,2025-05-12,8,2254.22,15,12,Cash Payment,PHP,Cancelled,Standard,,Wholesale
+O1142,C126, Ana Lopez,P1078,Puma Bag,Fashion,Bag,Puma,Prime Goods,North Hub,Philippines,Cebu,Cebu City,Cara Lim,2026-03-01,2026-03-05,7,1749.08,0,12,cash,PHP,Cancelled,Same Day,VIP20,VIP
+O1143,C126,mArIa  cruz,P1029,Samsung Phone,Electronics,Phone,Samsung,ABC Supply,Online,USA,CA,Los Angeles,Alice Cruz,2026-03-12,2026-03-16,1,1349.69,15,12,PayPal,USD,Returned,Standard,VIP20,Retail
+O1144,C164,mArIa  cruz,P1036,Lenovo Laptop,Electronics,Laptop,Lenovo,GlobalTrade,Central Mall,Philippines,NCR, Manila ,Bob Reyes,2026-05-11,2026-05-15,5,3132.54,10,12,cash,PHP,Pending,Express,VIP20,Wholesale
+O1145,C125,Juan Dela Cruz,P1093,Sony Headphones,Electronics,Headphones,Sony,ABC Supply,Online,Philippines,NCR,Manila,Bob Reyes,2025-01-14,2025-01-18,8,4065.01,10,12,GCash,PHP,Completed,Express,SAVE10,Wholesale
+O1146,C165,Juan Dela Cruz,P1070,Adidas Shoes,Fashion,Shoes,Adidas,GlobalTrade,Online,USA,CA,Los Angeles,Bob Reyes,2026-01-14,2026-01-15,7,4314.81,0,12,Cash Payment,USD,Cancelled,Standard,VIP20,VIP
+O1147,C107,Maria Santos,P1038,Adidas Shoes,Fashion,Shoes,Adidas,ABC Supply,Online,Philippines,Cebu,cebu city,Cara Lim,2025-09-12,2025-09-13,1,1079.45,10,12,Cash,PHP,Cancelled,Same Day,VIP20,VIP
+O1148,C115, Ana Lopez,P1090,Adidas Shoes,Fashion,Shoes,Adidas,GlobalTrade,Central Mall,Philippines,NCR,manila,Alice Cruz,2025-10-31,2025-11-07,7,4713.06,15,12,Cash Payment,PHP,Completed,Standard,,Wholesale
+O1149,C155,mArIa  cruz,P1080,Lenovo Laptop,Electronics,Laptop,Lenovo,GlobalTrade,Online,Philippines,Cebu,cebu city,Bob Reyes,2025-01-26,2025-01-30,4,4399.52,5,12,PayPal,PHP,Cancelled,Standard,,Retail
